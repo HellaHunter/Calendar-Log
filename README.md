@@ -20,7 +20,7 @@ Calendar Log is a website that allows you to keep track of your day and set a da
 
 ## Deployed Application Link
 
-https://miss-mad.github.io/mthsy-music/
+https://hellahunter.github.io/Calendar-Log/
 
 ## Installation
 
@@ -41,6 +41,8 @@ Below are screenshots of the deployed application:
 Links of resources used:
 
 https://www.w3schools.com/
+
+https://momentjs.com/docs/
 
 ## License
 
